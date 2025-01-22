@@ -1,4 +1,3 @@
-import React from "react";
 import { ButtonGroup } from "./ButtonGroup";
 import { MdOutlineFileDownload } from "react-icons/md";
 import { RiDeleteBin6Line } from "react-icons/ri";
